@@ -11,7 +11,8 @@ Todos nuestros materiales están publicados bajo la licencia [CC BY-NC 4.0](http
 
 ------------
 
-Public Reports of América Latina se Transforma a Ciencia Abierta (ALTa Ciencia Abierta) 🚀
+# Public Reports of América Latina se Transforma a Ciencia Abierta (ALTa Ciencia Abierta) 🚀
+
 :point_right: In this repository, you will find reports about the ALTa Ciencia Abierta training in **GitHub Flavored Markdown** format, as well as **the code and data used to generate them**. However, please note that we only publish aggregated data and questionnaire responses from individuals who consented to share them anonymously, and these constitute a subset of the total responses. :point_left:
 
 All individuals participating in or contributing to this repository must adhere to our [Code of Conduct](https://www.metadocencia.org/en/pdc/) and follow [MetaDocencia's Contribution Guidelines](https://github.com/MetaDocencia/docs/blob/master/CONTRIBUIR.md) :apple:
