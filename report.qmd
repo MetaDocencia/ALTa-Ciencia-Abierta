@@ -1,6 +1,5 @@
 ---
-title: "ALTa Ciencia Abierta" 
-subtitle: "(Latin American contextualization of NASA's Open Science 101 course)"
+title: "América Latina se transforma a Ciencia Abierta (Latin America Transforms to Open Science)"
 ---
 
 This report presents an overview of the participants who attended ALTa Ciencia Abierta, the Latin American contextualization of NASA's Open Science 101 course, in 2024. It offers a snapshot of their backgrounds, representation, accessibility needs, and prior knowledge and attitudes toward Open Science practices. The findings aim to inform future iterations of the program and contribute to the ongoing development of inclusive, community-driven training in the region.

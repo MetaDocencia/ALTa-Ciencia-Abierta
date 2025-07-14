@@ -1,4 +1,5 @@
-# ALTa Ciencia Abierta
+# América Latina se transforma a Ciencia Abierta (Latin America
+Transforms to Open Science)
 
 
 - [Meet the attendees!](#meet-the-attendees)
