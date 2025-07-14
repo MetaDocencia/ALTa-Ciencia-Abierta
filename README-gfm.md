@@ -1,5 +1,6 @@
-# ALTa Ciencia Abierta
 
+
+# ALTa Ciencia Abierta
 
 - [Meet the attendees!](#meet-the-attendees)
   - [Where do they come from? (n = 215,
@@ -49,18 +50,18 @@ Uruguay, Nicaragua, Spain, Guatemala, Honduras, India and Poland.
 
 #### Figure 1. Country of residence of the people who signed up
 
-![](report_files/figure-commonmark/unnamed-chunk-5-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-5-1.png)
 
 ### What is their educational level? (n = 215, 99.1%)
 
 A 45.1% (n = 97) has completed a graduate degree, 16.3% (n = 35)
-completed some graduate courses, 21.4% (n = 46) completed a bachelor
-degree, 13.5% (n = 29) has taken or is currently taking undergraduate
+completed some graduate courses, 13.5% (n = 29) completed a bachelor
+degree, 21.4% (n = 46) has taken or is currently taking undergraduate
 courses and 3.7% (n = 8) completed high school.
 
 #### Figure 2. Educational level of the people who signed up
 
-![](report_files/figure-commonmark/unnamed-chunk-7-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-7-1.png)
 
 ### What is their field of study? (n = 217, 100%)
 
@@ -72,7 +73,7 @@ from the following fields: Health Sciences, Humanities, Other.
 
 #### Figure 3. Field of study of the people who signed up
 
-![](report_files/figure-commonmark/unnamed-chunk-9-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-9-1.png)
 
 ### Do they participate in research projects? (n = 216, 99.5%)
 
@@ -85,11 +86,11 @@ experience.
 
 #### Figure 4. Percentage of the people who signed up who participate in research projects.
 
-![](report_files/figure-commonmark/unnamed-chunk-11-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-11-1.png)
 
 #### Figure 5. Years of experience in research for the people who participate in a research project.
 
-![](report_files/figure-commonmark/unnamed-chunk-12-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-12-1.png)
 
 ### Are they members of groups underrepresented in science? (n = 107, 49.3%)
 
@@ -101,7 +102,7 @@ disabilities, indigenous people, and others (less than 2% each).
 
 #### Figure 6. Underrepresented groups in technical and scientific contexts with which participants identify.
 
-![](report_files/figure-commonmark/unnamed-chunk-14-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-14-1.png)
 
 The total percentage exceeded 100% because participants were asked to
 choose all the categories that could represent their intersectionalities
@@ -120,7 +121,7 @@ Provide live captions.
 
 #### Figure 7. Accessibility requirements by participants.
 
-![](report_files/figure-commonmark/unnamed-chunk-16-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-16-1.png)
 
 ## Background in Open Science before attending ALTa Ciencia Abierta 1 2024
 
@@ -158,7 +159,7 @@ Figure 12 shows that:
 
 #### Figure 8. Participants’ knowledge regarding various Open Science practices.
 
-![](report_files/figure-commonmark/unnamed-chunk-20-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-20-1.png)
 
 ### How important do they think open practices are? (n = 204, 94%)
 
@@ -169,7 +170,7 @@ project” (5.4%, n = 10).
 
 #### Figure 9. Levels of importance assigned to various Open Science practices by participants.
 
-![](report_files/figure-commonmark/unnamed-chunk-23-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-23-1.png)
 
 ### Do they encourage other people to practice open science? (n = 175, 80.6%)
 
@@ -183,7 +184,7 @@ publishing data or code openly.
 
 #### Figure 10. Open practices the participants encourage others to implement.
 
-![](report_files/figure-commonmark/unnamed-chunk-25-1.png)
+![](alta-ca_files/figure-commonmark/unnamed-chunk-25-1.png)
 
 The total percentage exceeded 100% because participants were asked to
 choose all the practices they encouraged others to implement.
