@@ -217,3 +217,5 @@ adaptation of future training materials and the development of targeted
 support strategies that align with the realities of Latin American
 researchers. In this way, ALTa Ciencia Abierta continues to contribute
 to a more inclusive, equitable, and collaborative scientific future.
+
+If you use this material, please cite as follows: Formoso, J., & Acion, L. (2025). MetaDocencia/ALTa-Ciencia-Abierta: América Latina Transforms to Open Science (ALTA Ciencie Abierta) (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15882298
